@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Vehicle Issue
+about: Describe the Vehicle Issue.
 title: ''
-labels: ''
+labels: 'Vehicle Issue'
 assignees: ''
 
 ---
