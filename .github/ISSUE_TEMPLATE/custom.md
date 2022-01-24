@@ -2,7 +2,7 @@
 name: Vehicle Issue
 about: Describe the Vehicle Issue.
 title: ''
-labels: 'Vehicle Issue'
+labels: Vehicle Issue
 assignees: ''
 
 ---
